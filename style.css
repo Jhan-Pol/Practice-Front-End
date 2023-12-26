@@ -1,0 +1,31 @@
+body {
+    background-image: url(imgs/Post41.jpeg);
+    background-size:cover;
+}
+header {
+    background-color:aliceblue;
+    height: 70px;
+    margin:22px 4px; 
+}
+.container {
+    background-color:blueviolet;
+    display: flex;
+    height: 450px;
+    margin: 4px;
+
+}
+.firstArticle {
+    background-color: blanchedalmond;
+    display: flex;
+    width: 50%;
+    margin:50px;
+}
+.secondArticle {
+    background-color:blue;
+    display: flex;
+    width: 380px;
+    margin: 10px 20px 10px 140px;
+}
+.end {
+    background-color: aliceblue;
+}

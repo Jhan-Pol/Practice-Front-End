@@ -1,0 +1,18 @@
+/* Definimos los keyframes con @keyframes */
+@keyframes mover-cuadrado {
+    0% {
+      transform: translateX(0); /* En el inicio, posición inicial */
+    }
+    100% {
+      transform: translateX(100%); /* Al 100%, posición final */
+    }
+  }
+  
+  /* Estilos del cuadrado */
+  .cuadrado {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    animation: mover-cuadrado 2s ease-in-out  1; /* Aplicamos la animación */
+  }
+  

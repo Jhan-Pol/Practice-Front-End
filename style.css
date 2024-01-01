@@ -37,6 +37,8 @@ header {
     color: aliceblue;
     font-size: 20px;
     box-shadow: 5px 5px 10px #000;
+    font-family: 'Merriweather', serif;
+    font-family: 'Oswald', sans-serif;
 }
 .secondArticle {
     display: flex;
@@ -85,4 +87,3 @@ header {
         margin-top: 20px;
     }
 }
-
